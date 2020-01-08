@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\bin\Debug\netcoreapp3.0\SocketChatServer.exe
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\obj\Debug\netcoreapp3.0\SocketChatServer.csprojAssemblyReference.cache
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\obj\Debug\netcoreapp3.0\SocketChatServer.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\obj\Debug\netcoreapp3.0\SocketChatServer.AssemblyInfo.cs
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\bin\Debug\netcoreapp3.0\SocketChatServer.deps.json
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\bin\Debug\netcoreapp3.0\SocketChatServer.runtimeconfig.json
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\bin\Debug\netcoreapp3.0\SocketChatServer.runtimeconfig.dev.json
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\bin\Debug\netcoreapp3.0\SocketChatServer.dll
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\bin\Debug\netcoreapp3.0\SocketChatServer.pdb
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\obj\Debug\netcoreapp3.0\SocketChatServer.csproj.CopyComplete
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\obj\Debug\netcoreapp3.0\SocketChatServer.dll
+C:\Users\home\source\repos\SocketChatServer\SocketChatServer\obj\Debug\netcoreapp3.0\SocketChatServer.pdb
